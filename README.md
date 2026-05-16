@@ -2,7 +2,7 @@
 
 A Python-based data analysis project designed to organize, summarize, and visualize a dataset of 100 student achievement test scores applying for a master's degree.pdf].
 
-Developed as an academic mini-project for **GEN211 - Probability and Statistics ** at **El Sewedy University of Technology (SUT)**.pdf].
+Developed as an academic mini-project for **GEN211 - Probability and Statistics** at **El Sewedy University of Technology (SUT)**].
 
 ---
 
